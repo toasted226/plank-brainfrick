@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qpuu41u2baakTTZitSbawzZTeap7OK/Qb4twJGund+zBAgmyQ9pdJEykQ4MpEy1DTApmcWFtBkKAC+c2bObuvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Keagan\\Documents\\Plank\\Brainfrick\\PlankBrainfrick\\PlankBrainfrick\\PlankBrainfrick.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Keagan\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Keagan\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
